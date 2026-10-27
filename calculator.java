@@ -44,13 +44,5 @@ public class calculator {
             
 
         }
-
-
-
-        
-        
-
-        
-        
-    }
+  }
 }
